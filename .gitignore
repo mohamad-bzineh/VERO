@@ -1,0 +1,24 @@
+# Generated files
+bin/
+gen/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Intellij project files
+*.iws
+.idea/tasks.xml
+.idea
+/build
+/captures
+.externalNativeBuild
+.cxx
+/local.properties
+
+*.iml
+.DS_Store
+
